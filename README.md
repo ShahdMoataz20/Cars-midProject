@@ -24,7 +24,7 @@ The dataset comprises approximately 500,000 used vehicle entries from Craigslist
     3- Vehicle Age vs. Price: A negative correlation exists between vehicle age and price, indicating that older vehicles tend to have lower prices.
 
     4- Odometer Reading Analysis: Higher odometer readings generally correspond to lower vehicle prices, suggesting that cars with more mileage are 
-        less expensive.
+         less expensive.
 
     5- Fuel Type Analysis:
     * Gasoline is the most common fuel type among listings.
