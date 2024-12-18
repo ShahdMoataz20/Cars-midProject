@@ -18,6 +18,14 @@ The dataset comprises approximately 500,000 used vehicle entries from Craigslist
     1- Price Distribution: The majority of vehicle prices are below $25,000, with a significant concentration under $10,000.
 
     2- Manufacturer Analysis:
-       * Top manufacturers by listing frequency include Ford, Chevrolet, Toyota, Honda, and Nissan.
-       * Luxury brands like Porsche and Tesla have higher average prices compared to other manufacturers.
-   3- 
+      * Top manufacturers by listing frequency include Ford, Chevrolet, Toyota, Honda, and Nissan.
+      * Luxury brands like Porsche and Tesla have higher average prices compared to other manufacturers.
+         
+   3- Vehicle Age vs. Price: A negative correlation exists between vehicle age and price, indicating that older vehicles tend to have lower prices.
+
+   4- Odometer Reading Analysis: Higher odometer readings generally correspond to lower vehicle prices, suggesting that cars with more mileage are 
+        less expensive.
+
+   5- Fuel Type Analysis:
+   * Gasoline is the most common fuel type among listings.
+   * Diesel and electric vehicles have higher average prices compared to gasoline vehicles.
