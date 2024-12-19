@@ -15,25 +15,25 @@ The dataset comprises approximately 500,000 used vehicle entries from Craigslist
 
 **Exploratory Data Analysis (EDA):**
 
-    1- Price Distribution: The majority of vehicle prices are below $25,000, with a significant concentration under $10,000.
+   1- Price Distribution: The majority of vehicle prices are below $25,000, with a significant concentration under $10,000.
 
-    2- Manufacturer Analysis:
+   2- Manufacturer Analysis:
       * Top manufacturers by listing frequency include Ford, Chevrolet, Toyota, Honda, and Nissan.
       * Luxury brands like Porsche and Tesla have higher average prices compared to other manufacturers.
          
-    3- Vehicle Age vs. Price: A negative correlation exists between vehicle age and price, indicating that older vehicles tend to have lower prices.
+   3- Vehicle Age vs. Price: A negative correlation exists between vehicle age and price, indicating that older vehicles tend to have lower prices.
 
-    4- Odometer Reading Analysis: Higher odometer readings generally correspond to lower vehicle prices, suggesting that cars with more mileage are 
+   4- Odometer Reading Analysis: Higher odometer readings generally correspond to lower vehicle prices, suggesting that cars with more mileage are 
          less expensive.
 
-    5- Fuel Type Analysis:
+   5- Fuel Type Analysis:
      * Gasoline is the most common fuel type among listings.
      * Diesel and electric vehicles have higher average prices compared to gasoline vehicles.
 
-    6- Condition Analysis: Vehicles listed in 'new' or 'like new' condition have higher average prices compared to those in 'fair' or 'salvage' 
+   6- Condition Analysis: Vehicles listed in 'new' or 'like new' condition have higher average prices compared to those in 'fair' or 'salvage' 
            condition.
     
-    7- Transmission Type Analysis:
+   7- Transmission Type Analysis:
        * Automatic transmissions are more prevalent than manual ones.
        * Vehicles with manual transmissions have a slightly lower average price compared to automatic ones.
        
