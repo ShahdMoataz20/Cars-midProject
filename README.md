@@ -27,5 +27,12 @@ The dataset comprises approximately 500,000 used vehicle entries from Craigslist
          less expensive.
 
     5- Fuel Type Analysis:
-    * Gasoline is the most common fuel type among listings.
-    * Diesel and electric vehicles have higher average prices compared to gasoline vehicles.
+     * Gasoline is the most common fuel type among listings.
+     * Diesel and electric vehicles have higher average prices compared to gasoline vehicles.
+
+    6- Condition Analysis: Vehicles listed in 'new' or 'like new' condition have higher average prices compared to those in 'fair' or 'salvage' 
+           condition.
+    7- Transmission Type Analysis:
+       * Automatic transmissions are more prevalent than manual ones.
+       * Vehicles with manual transmissions have a slightly lower average price compared to automatic ones.
+       
