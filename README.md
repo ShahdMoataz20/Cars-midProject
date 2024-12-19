@@ -13,7 +13,7 @@ The dataset comprises approximately 500,000 used vehicle entries from Craigslist
   
   * Duplicates: Removed duplicate entries to maintain data integrity.
 
-    **Exploratory Data Analysis (EDA):**
+**Exploratory Data Analysis (EDA):**
 
     1- Price Distribution: The majority of vehicle prices are below $25,000, with a significant concentration under $10,000.
 
