@@ -32,7 +32,12 @@ The dataset comprises approximately 500,000 used vehicle entries from Craigslist
 
     6- Condition Analysis: Vehicles listed in 'new' or 'like new' condition have higher average prices compared to those in 'fair' or 'salvage' 
            condition.
+    
     7- Transmission Type Analysis:
        * Automatic transmissions are more prevalent than manual ones.
        * Vehicles with manual transmissions have a slightly lower average price compared to automatic ones.
        
+
+**Conclusion:**
+
+This analysis provides a comprehensive overview of the used car market as represented in the dataset. By understanding the factors that influence vehicle pricing and demand, stakeholders can make informed decisions in buying, selling, and marketing used vehicles.
